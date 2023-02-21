@@ -1,0 +1,11 @@
+//React Native Navigation
+npm install @react-navigation/native
+npm install @react-navigation/native @react-navigation/native-stack
+npm install react-native-screens react-native-safe-area-context
+npx expo install react-native-gesture-handler react-native-reanimated
+npm install react-native-gesture-handler react-native-reanimated
+react-native link react-native-reanimated
+react-native link react-native-gesture-handler
+
+//React Native icons
+npm i react-native-vector-icons

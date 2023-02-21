@@ -6,6 +6,7 @@ npx expo install react-native-gesture-handler react-native-reanimated
 npm install react-native-gesture-handler react-native-reanimated
 react-native link react-native-reanimated
 react-native link react-native-gesture-handler
+npm install @react-navigation/bottom-tabs
 
 //React Native icons
 npm i react-native-vector-icons

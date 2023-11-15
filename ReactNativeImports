@@ -1,4 +1,3 @@
-//React Native Navigation
 npm install @react-navigation/native
 npm install @react-navigation/native @react-navigation/native-stack
 npm install react-native-screens react-native-safe-area-context
@@ -7,6 +6,8 @@ npm install react-native-gesture-handler react-native-reanimated
 react-native link react-native-reanimated
 react-native link react-native-gesture-handler
 npm install @react-navigation/bottom-tabs
-
-//React Native icons
 npm i react-native-vector-icons
+npm i axios
+npm i tailwindcss@3.3.2
+npm install nativewind
+npx tailwindcss init

@@ -7,6 +7,7 @@ react-native link react-native-reanimated
 react-native link react-native-gesture-handler
 npm install @react-navigation/bottom-tabs
 npm i react-native-vector-icons
+npm i react-native-feather
 npm i axios
 npm i tailwindcss@3.3.2
 npm install nativewind

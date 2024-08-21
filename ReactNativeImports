@@ -12,3 +12,4 @@ npm i axios
 npm i tailwindcss@3.3.2
 npm install nativewind
 npx tailwindcss init
+npm install @react-navigation/stack

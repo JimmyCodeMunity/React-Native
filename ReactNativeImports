@@ -16,4 +16,6 @@ npm install @react-navigation/stack
 npm install --save-dev @babel/plugin-transform-class-properties
 npm install --save-dev @babel/plugin-transform-private-methods
 npm install --save-dev @babel/plugin-transform-private-property-in-object
+npm install --save-dev metro-react-native-babel-preset
+
 

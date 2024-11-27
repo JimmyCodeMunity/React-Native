@@ -13,3 +13,7 @@ npm i tailwindcss@3.3.2
 npm install nativewind@2.0.11
 npx tailwindcss init
 npm install @react-navigation/stack
+npm install --save-dev @babel/plugin-transform-class-properties
+npm install --save-dev @babel/plugin-transform-private-methods
+npm install --save-dev @babel/plugin-transform-private-property-in-object
+
